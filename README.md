@@ -1,4 +1,4 @@
-# 구인구직 사이트
+# 1. 구인구직 사이트
 ![2024-03-11 12 13 52](https://github.com/9oj0e/project-job-plan/assets/126438339/f0b0e1f1-e70d-462f-bf9f-c3fdc937c9d3)
 
 ## 시연 영상
@@ -6,8 +6,24 @@ https://youtu.be/4K6tqCeJEwY
 ## PPT
 [KDT 1차 미니프로젝트 4조 완성.pptx](https://github.com/9oj0e/project-job-plan/files/14553267/KDT.1.4.pptx)
 
+# 2. 팀원 소개
 
-# 시연 (핵심 로직)
+### 팀장
+|                                                         이름                                                        |                     프로필 사진                     |       GitHub 주소        |
+|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------:|:--------------------------:|
+|                                                        조정현(팀장)                                                    | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@9oj0e](https://github.com/9oj0e) |
+
+### 팀원
+|                     이름                     |                     프로필 사진                     |       GitHub 주소        |
+|:-------------------------------------------:|:---------------------------------------------------:|:--------------------------:|
+|                     김성재                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@kimsjae](https://github.com/kimsjae)  |
+|                     김정수                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@zeeq123](https://github.com/zeeq123)  |
+|                     류재성                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@coderyu5523](https://github.com/coderyu5523)  |
+|                     최윤정                  | <img src="https://avatars.githubusercontent.com/u/78337301?v=4" alt="profile" width="100" height="100"> | [@yunchocopie](https://github.com/yunchocopie) |</table>
+
+
+
+# 3. 시연 (핵심 로직)
 ## 공고 작성 (구인자)
 ### 1. 회원가입 및 로그인
 ![스크린샷 2024-03-11 112304](https://github.com/9oj0e/project-job-plan/assets/153602328/c52bb95a-a42d-431b-b1f9-2321095c1326)
@@ -83,7 +99,7 @@ https://youtu.be/4K6tqCeJEwY
 ## 구독
 ![image](https://github.com/9oj0e/project-job-plan/assets/153602328/ccc93919-6124-4d64-a547-97a55ef9bb88)
 
-# 개발 환경
+# 4. 개발 환경
 <span>
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width=30" /> IDE</h3>
  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -120,7 +136,7 @@ https://youtu.be/4K6tqCeJEwY
 ![Screenshot_6](https://github.com/9oj0e/project-job-plan/assets/153602328/09a3287a-b0d2-48da-960a-96ddb952d411)
 
 
-## 진행
+# 5. 진행
 ### 1단계 (완료)
 요구사항 수집 및 분석
 웹 화면 설계
@@ -226,7 +242,8 @@ table 설계
 고객센터
 push
 redis
-## 협업 전략
+
+# 6. 협업 전략
 ### GitHub
 - Branch : 이름 이니셜 날짜 시간
 - commit : 작업 내용에 대한 요약 담기
